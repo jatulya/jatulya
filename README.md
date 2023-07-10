@@ -31,11 +31,14 @@
   </div>
   <br><br>
   <div display=grid >
-    Check this out too!!<br><br>
+   <div>
+     Check this out too!!<br><br>
     <img height=220px align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatulya&layout=donut"/>
+   </div>
   <br><br>
- Hehe, I kinda fluctuate while doing things...<br><br>
+ <div>
+   Hehe, I kinda fluctuate while doing things...<br><br>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatulya&" alt="J-Atulya" />
-  </div>
+  </div></div>
  
 
