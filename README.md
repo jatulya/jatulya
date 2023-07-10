@@ -30,15 +30,14 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </div>
   <br><br>
-  <div display=grid >
-   <div>
+  <div>
      Check this out too!!<br><br>
     <img height=220px align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatulya&layout=donut"/>
-   </div>
+  </div>
   <br><br>
  <div>
    Hehe, I kinda fluctuate while doing things...<br><br>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatulya&" alt="J-Atulya" />
-  </div></div>
+  </div>
  
 
