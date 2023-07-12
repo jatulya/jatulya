@@ -29,10 +29,10 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div><br>
 <h3>Check this out too!! </h3> <br>
-<div display=grid  margin-up=25px>
-  <img height=220px align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatulya&layout=donut"/>
-  <img align=left src="https://github-readme-streak-stats.herokuapp.com/?user=jatulya&" alt="J-Atulya" />
-</div>
+<p align=left style="margin-right:35px;">
+  <img height=220px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatulya&layout=donut"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatulya&" alt="J-Atulya" />
+</p>
 
  
 
