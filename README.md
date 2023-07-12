@@ -15,7 +15,7 @@ This is how much I have DONE IN GITHUB so far..<br><br>
 <img height=220px src="https://github-readme-stats.vercel.app/api?username=jatulya&show_icons=true&theme=tokyonight"/>
 <br><br><br>
   <!-- these stat links are copied from github-readme-stats provided by anuraghazra-->
-I am pretty familiar with..<br><br>
+<h3> I am pretty familiar with...</h3><br><br>
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" />
@@ -28,15 +28,14 @@ I am pretty familiar with..<br><br>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div><br><br><br>
-  <div>
-     Check this out too!!<br><br>
-     <img height=220px align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatulya&layout=donut"/>
-  </div>
-  <br><br><br>
-  <div>
-    Hehe, I kinda fluctuate while doing things...<br><br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatulya&" alt="J-Atulya" />
-  </div>
+<h3>Check this out too!!</h3><br>
+<div>
+  <img height=220px align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatulya&layout=donut"/>
+</div><br><br><br>
+<h3> My Streaks</h3>
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatulya&" alt="J-Atulya" />
+</div>
 
  
 
