@@ -7,13 +7,11 @@
   Year 📅: 2021-2025<br>
   Interests ✨: Reading, Dancing, Coding<br>
   Currently Learning: Django, React, Cpp<br>
-</h3>
-
+</h3><br>
 <h3 align=center> Want to know about my technical skills? <br> HERE YOU GO!!!</h3><br>
-
-<h3>This is how much I have DONE IN GITHUB so far..</h3><br><br>
+<h3>This is how much I have DONE IN GITHUB so far..</h3><br>
 <img height=220px src="https://github-readme-stats.vercel.app/api?username=jatulya&show_icons=true&theme=tokyonight"/>
-<br><br><br>
+<br>
   <!-- these stat links are copied from github-readme-stats provided by anuraghazra-->
 <h3> I am pretty familiar with...</h3><br>
 <div>
