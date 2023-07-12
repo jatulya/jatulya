@@ -31,7 +31,7 @@
 <h3>Check this out too!! </h3> <br>
 <div display=grid  margin-up=25px>
   <img height=220px align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatulya&layout=donut"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatulya&" alt="J-Atulya" />
+  <img align=left src="https://github-readme-streak-stats.herokuapp.com/?user=jatulya&" alt="J-Atulya" />
 </div>
 
  
