@@ -28,11 +28,12 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div><br>
-<h3>Check this out too!! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My Streak..</h3> <br>
+<h3>Check this out too!! </h3> <br>
 <div>
   <img height=220px align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatulya&layout=donut"/>
+  <br><br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatulya&" alt="J-Atulya" />
-</div><br><br><br>
+</div>
 
  
 
