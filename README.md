@@ -6,7 +6,7 @@
   Branch : Computer Science<br>
   Year 📅: 2021-2025<br>
   Interests ✨: Reading, Dancing, Coding<br>
-  Currently Learning: Django, React, Cpp<br>
+  Currently Learning: Django, Javascript, Cpp<br>
 </h3><br>
 <h3 align=center> Want to know about my technical skills? <br> HERE YOU GO!!!</h3><br>
 <h3>This is how much I have DONE IN GITHUB so far..</h3><br>
