@@ -31,8 +31,9 @@
   <img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatulya&layout=donut&theme=tokyonight"/>
   <img align=left width=450px height=200px src="https://github-readme-streak-stats.herokuapp.com/?user=jatulya&theme=tokyonight" alt="J-Atulya" />
 </p>
+<br><br>
 <p>
-      <img align=bottom src="https://visitcount.itsvg.in/api?id=jatulya&icon=0&color0)](https://visitcount.itsvg.in"/>
+      <img align=right src="https://visitcount.itsvg.in/api?id=jatulya&icon=0&color0)](https://visitcount.itsvg.in"/>
 </p>
 
 
