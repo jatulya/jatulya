@@ -6,7 +6,7 @@
   Branch : Computer Science<br>
   Year 📅: 2021-2025<br>
   Interests ✨: Reading, Dancing, Coding<br>
-  Currently Learning: Django, Typescript, Cpp<br>
+  Currently Learning: Typescript, Cpp<br>
 </h3><br>
 <h3 align=center> Want to know about my technical skills? <br> HERE YOU GO!!!</h3><br>
 <h3>This is how much I have DONE IN GITHUB so far..</h3><br>
@@ -28,9 +28,9 @@
   <img src="https://img.shields.io/badge/React-%23351121.svg?style=for-the-badge&logo=react&logoColor=blue" alt="React" />
   <img src="https://img.shields.io/badge/Vite-%231F2DB2?style=for-the-badge&logo=vite&logoColor=blue" alt="Vite" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Firebase-%18795625.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Firebase-%18795625.svg?style=for-the-badge&logo=firebase&logoColor=red" alt="Firebase" />
   <img src="https://img.shields.io/badge/Supabase-%23578456.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Appwrite-%231AADB2.svg?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite" />
+  <img src="https://img.shields.io/badge/Appwrite-%231AADB2.svg?style=for-the-badge&logo=appwrite&logoColor=red" alt="Appwrite" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div><br>
 <h3>Check this out too!! </h3> <br>
