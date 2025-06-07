@@ -6,7 +6,6 @@
   Branch : Computer Science<br>
   Year 📅: 2021-2025<br>
   Interests ✨: Reading, Dancing, Coding<br>
-  Currently Exploring 🔍: Machine Learning<br>
 </h3><br>
 <h3 align=center> Want to know about my technical skills? <br> HERE YOU GO!!!</h3><br>
 <h3>This is how much I have DONE IN GITHUB so far..</h3><br>
@@ -34,6 +33,11 @@
 <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div><br>
 <h3>Check this out too!! </h3> <br>
 <p>
