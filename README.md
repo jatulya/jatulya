@@ -1,11 +1,11 @@
 <h1 align=center> Hi there 👋, I'm J ATULYA</h1>
-<h2 align=center> An engineering student who wants to explore deeper into the computer world..<br> At least, she tries to 🙂🙂</h2>
+<h2 align=center> A software engineer who wants to explore deeper into the computer world..<br> At least, she tries to 🙂🙂</h2>
 
 <h3 align=left>
   Education 🎓: Govt. Model Engineering College, Thrikkakkara, Kochi <br>
   Branch : Computer Science<br>
-  Year 📅: 2021-2025<br>
-  Interests ✨: Reading, Dancing, Coding<br>
+  Year : 2021-2025<br>
+  Interests : Reading, Dancing, Coding<br>
 </h3><br>
 <h3 align=center> Want to know about my technical skills? <br> HERE YOU GO!!!</h3><br>
 <h3>This is how much I have DONE IN GITHUB so far..</h3><br>
